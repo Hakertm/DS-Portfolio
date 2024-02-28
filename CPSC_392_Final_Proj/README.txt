@@ -1,10 +1,11 @@
 Personal Info
-
 a. Erik Fryanov
 b. 2365673
 c. fryanov@chapman.edu
 d. CPSC 392-01
 e. Final Project
+
+Note: Project mainly focused on working with different data science/analytics model on a personally chosen dataset.
 
 Resources Used:
 https://sparkbyexamples.com/pandas/pandas-find-unique-values-from-columns/#:~:text=You%20can%20get%20unique%20values,to%20get%20from%20multiple%20columns.
